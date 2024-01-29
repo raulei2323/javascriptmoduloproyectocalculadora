@@ -1,0 +1,10 @@
+.deviceContainer {
+  margin: 1 px;
+  border: solid red;
+  display: flex;
+ 
+  width: 100%;
+  background-color: blue;
+
+}
+
