@@ -11,11 +11,13 @@
   display: flex;
   background: linear-gradient(rgb(76, 76, 219), rgb(11, 24, 207));
 
-}
+  div .globalContainer {
+    
+    btn.num0 {
+      
+      position: relative;
+      border: solid red 
+    }
+  }
 
-.num0 {
-  
-  position: relative;
-  border: solid red 
 }
-

@@ -1,8 +1,7 @@
-*{
-	box-sizing: border-box;
+* {
+  box-sizing: border-box;
   background: linear-gradient(rgb(76, 76, 219), rgb(11, 24, 207));
 }
-
 
 .globalContainer {
   margin: 1 px;
@@ -10,12 +9,8 @@
   min-height: 10vh;
   display: flex;
   background: linear-gradient(rgb(76, 76, 219), rgb(11, 24, 207));
-
 }
-
-.num0 {
-  
+.globalContainer div .globalContainer btn.num0 {
   position: relative;
-  border: solid red 
-}
-
+  border: solid red;
+}/*# sourceMappingURL=mainstyles.css.map */
